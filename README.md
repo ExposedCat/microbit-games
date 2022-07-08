@@ -11,7 +11,7 @@
 </div>
 
 <p align="center">
-  This repo contants some games written in TypeScript for micro:bit chips
+  This repo contains several games written in TypeScript for micro:bit chips
 </p>
 
 <h2 align="center">
@@ -27,18 +27,18 @@
 </h2>
 
 1. Go to <a href="https://makecode.microbit.org">MS MakeCode</a> and create new project
-2. Go to JavaScript tab on the top of editor
+2. Go to the JavaScript tab on the top of the editor
 3. Replace code field contents with the ones from the `game.ts` file.  
-   The `microbit.d.ts` file is a file with global typings to code in VSCode with autocomplete instead of error, it's not required
+   The `microbit.d.ts` file is a file with global typings to code in VSCode with autocomplete instead of an error, it's not required
 4. Ensure code works by running the program in an emulator on the left (green triangle)
-5. Press `Dowbload` in the lower left corner
+5. Press `Download` in the lower-left corner
 6. Connect your micro:bit chip via USB
 7. Open the `MICROBIT` device from your file manager
-8. Drop downloaded `.hex` file to the opened device. It will disappear and appear in read-only mode later.  
-   <b>IMPORTANT</b>: do NOT unplug chip while indicator there is blinking.
+8. Drop the downloaded `.hex` file to the opened device. It will disappear and appear in read-only mode later.  
+   <b>IMPORTANT</b>: do NOT unplug the chip while the indicator there is blinking.
 9. At the end of the indicator flashing unplug and turn on your micro:bit.  
    <br>
-   Game should start. Use toggle to turn on/off chip, bottom button to restart game. Game controls specified in the game description paragraph
+Game should start. Use the toggle to turn on/off chip, the bottom button to restart game. Game controls specified in the game description paragraph
 
 <hr>
 <h1 align="center">
